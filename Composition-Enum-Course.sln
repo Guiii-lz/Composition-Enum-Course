@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composition-Enum-Course", "Composition-Enum-Course\Composition-Enum-Course.csproj", "{980CB822-26FD-4D31-A9EA-244002E1BFD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{980CB822-26FD-4D31-A9EA-244002E1BFD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{980CB822-26FD-4D31-A9EA-244002E1BFD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{980CB822-26FD-4D31-A9EA-244002E1BFD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{980CB822-26FD-4D31-A9EA-244002E1BFD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB0CE87F-B573-4C8C-A5AD-7450B6C6C6CE}
+	EndGlobalSection
+EndGlobal
